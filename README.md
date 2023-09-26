@@ -1,4 +1,4 @@
-# Fed-Learning-For-Energy-Systems
+# Federated Learning for Energy Systems
 Master's Thesis
 
 The required files can be acquired from the following links
